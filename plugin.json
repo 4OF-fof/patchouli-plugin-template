@@ -1,0 +1,8 @@
+{
+  "id": "template",
+  "name": "テンプレート",
+  "version": "0.1.0",
+  "description": "何もしないプラグイン。GitHub のリリースからインストールする流れを確かめるためのもの",
+  "elevated": "ui.js",
+  "menu": { "formats": ["md"], "by": "elevated" }
+}
